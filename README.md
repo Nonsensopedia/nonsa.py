@@ -1,2 +1,2 @@
-# nonsensopedia.py
-Python helpers for working with Nonsensopedia via Pywikibot
+# nonsa.py
+Python helpers for working with Nonsensopedia (https://nonsa.pl/) via Pywikibot.
